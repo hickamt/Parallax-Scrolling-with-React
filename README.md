@@ -1,3 +1,17 @@
+# Parallax Scrolling with React
+
+Code Video : [Code Commerce: How to Make a Parallax Scrolling Website in React](https://youtu.be/vQg-VjCPKUE)
+
+Code GitHub: [FireClint: Parallax-Scrolling-React](https://github.com/fireclint/Parallax-Scrolling-React)
+
+The dependency allowing the parallax scrolling effect was installed via:
+
+```js
+> npm i react-parallax
+```
+
+Background images courtesy of [Unsplash: Cryptocurrency](https://unsplash.com/s/photos/cryptocurrency)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
